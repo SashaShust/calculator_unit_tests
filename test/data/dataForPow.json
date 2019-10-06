@@ -1,0 +1,26 @@
+{
+  "positive": [
+    {
+      "a": 2,
+      "b" : 3,
+      "result": 8
+    },
+    {
+      "a": 0,
+      "b" : 0,
+      "result": 1
+    },
+    {
+      "a": -3,
+      "b" : -1,
+      "result": -0.3333333333333333
+    }
+  ],
+  "negative": [
+    {
+      "a": "a",
+      "b" : 0,
+      "errorMessage": "Was entered wrong parameters"
+    }
+  ]
+}
