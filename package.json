@@ -26,7 +26,7 @@
   "dependencies": {
     "chai": "^4.2.0",
     "chai-spies": "^1.0.0",
-    "mocha": "^6.2.1",
+    "mocha": "^10.2.0",
     "mochawesome": "^4.1.0",
     "nyc": "^14.1.1"
   }
